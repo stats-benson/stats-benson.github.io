@@ -1,1 +1,1 @@
-Hi my name is jacob benson, and I am a student at Whiman College
+Hi my name is Jacob Benson, and I am a student at Whiman College
