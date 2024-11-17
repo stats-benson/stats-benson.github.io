@@ -1,7 +1,7 @@
 ## About Me 
 1. Personal Introduction:
 
-    My name is Jacob Benson, and I am a Math - Stats student at Whitman College. Areas of interest include frequentist statistical modelling, sas for experimental design and power analysis, and data science visualizations. I aspire to do statistics work with research organizations as well as teaching mathematics and statistics. 
+    My name is Jacob Benson, a Math - Stats student at Whitman College. Areas of interest include frequentist statistical modelling, sas for experimental design and power analysis, and data science visualizations. I aspire to do statistics work with research organizations as well as teaching mathematics and statistics. 
 
 2. Portfolio Overview:
 
