@@ -48,7 +48,7 @@
 
 > Next I think making some sort of predictive model for dolphin and whale data, looking at what month/time of day you are most likely to spot a mammal in the wild, specifically in different locations.
 
-> With the lobster dataset, I want to look at microplastic content vs  average overall pollution by Maine and Canada area.\
+> With the lobster dataset, I want to look at microplastic content vs  average overall pollution by Maine and Canada area.
 
 > Finally using both education datasets, I want to investigate if there is a correlation between geographic location, school funding and attendence or grade data. 
 
