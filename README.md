@@ -19,7 +19,7 @@
 
 1. Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, All States.
     - This study comes from the data.gov, specifically from the U.S. Department of Human Services; FARS (Fatality Analysis Reporting System), published by the CDC. ([link](https://catalog.data.gov/dataset/impaired-driving-death-rate-by-age-and-gender-2012-2014-all-states))
-    - The dataset includes the rates (per 100,000) of car crash fatalities involving someone who has a BAC of =>0.08%. Some minor notes are that any rate based on 20 crashes or fewer is suppressed, and all blank datapoints indicate data that has been suppressed.
+    - The dataset includes the rates (per 100,000) of car crash fatalities involving someone who has a BAC of =>0.08%. Some minor notes are that any rate based on 20 crashes or fewer is suppressed, and all blank datapoints indicate data that has been suppressed. {br}
 
   
 2. National Survey on Drug Use and Health, 2023, All States.
