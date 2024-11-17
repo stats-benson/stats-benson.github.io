@@ -1,7 +1,3 @@
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
-
-![Thumbnail of Cayman](thumbnail.png)
-
 ## About Me 
 1. Personal Introduction:
 
@@ -51,16 +47,9 @@ In one of my recent data science projects, I looked at Professor Schueller's pho
 
 {% include_relative first_last_locations.html%}
 
-Cayman will respect the following variables, if set in your site's `_config.yml`:
+From this, we can take the time between first and last point, and divide by distance to obtain average velocity over the stretch. After filtering out any velocities below 2 m/s (4.4mph), you can obtain the following histogram of 2*counts by velocity. 
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
 
-Additionally, you may choose to set the following optional variables:
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+![Count Histograms](Histogram.png)
+
