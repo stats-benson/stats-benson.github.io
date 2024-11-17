@@ -49,7 +49,7 @@
 
 In one of my recent data science projects, I looked at Professor Schueller's phone location data. This imbedded plotly visualization is showing the first and last points recorded along a stretch of the five mile road in Walla Walla, which is a part of a classic bike route that Professor Schueller consistently rides. 
 
-{% include_relative figures/first_last_locations.html%}
+{% include_relative first_last_locations.html%}
 
 Cayman will respect the following variables, if set in your site's `_config.yml`:
 
