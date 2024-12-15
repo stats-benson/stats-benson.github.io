@@ -13,7 +13,10 @@ Welcome to my Landing Page!
 
     A large portion of my work highlighted on this page will be Data Science centered, with an emphasis on visualizations.
 
-3. Contact Me:
+3. Featured Projects: 
+- [Data Science Final Project](https://stats-benson.github.io/DataScienceProject/)
+
+4. Contact Me:
 
    - [School Email](bensonj@whitman.edu)
    - [Work Email](jbenson2470@gmail.com)
